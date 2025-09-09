@@ -1,13 +1,30 @@
 # WORKING WITH HOOKS IN REACT
 
-In this project we are going to be doing a deep dive into working with hooks in react.
+## Description
 
-# Getting started
+This project has been built using **Tailwind CSS**, **Vite**, and **React**.  
+It is a hands-on deep dive into working with **custom React hooks**, exploring how they can make components more reusable and declarative.
+
+---
+
+## Getting started
 
 1. Clone the repo
 
 ```bash
- 
+ git clone https://github.com/ch1n069/Working-with-custom-hooks-react.git
+```
+
+2. Installing the projects dependencies
+
+```bash
+npm install
+```
+
+3. Running the project in development mode
+
+```bash
+npm run dev
 ```
 
 ## UseOnline
